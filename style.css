@@ -1,0 +1,62 @@
+html body {
+    margin: 0;
+    padding: 0%;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 100%;
+    background-color: beige;
+}
+
+.home{
+    margin-right: 5px;
+    text-decoration: none;
+    color: black;
+    background-color: grey;
+    text-align: center;
+    border-radius: 5px;
+    width: 60px;
+    height: 60%;
+    padding-top: 13px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+
+.channel{
+    margin-left: 5px;
+    text-decoration: none;
+    color: black;
+    background-color: grey;
+    text-align: center;
+    border-radius: 5px;
+    width: 140px;
+    height: 60%;
+    padding-top: 13px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+table,th,td{
+    border: 1px solid #e7e7e7;
+}
+
+.project{
+    background-color: #1c1c1c;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+}
+
+.color{
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+}
